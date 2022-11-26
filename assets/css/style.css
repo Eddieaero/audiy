@@ -610,6 +610,10 @@ h6 {
   background-color: #f6f9ff;
 }
 
+
+.main{
+  background: url("guitar-756326_1920.jpg");
+}
 /*--------------------------------------------------------------
 # Sidebar
 --------------------------------------------------------------*/
@@ -626,7 +630,7 @@ h6 {
   scrollbar-width: thin;
   scrollbar-color: #aab7cf transparent;
   box-shadow: 0px 0px 20px rgba(1, 41, 112, 0.1);
-  background-color: #fff;
+  background-color: #404258;
 }
 
 @media (max-width: 1199px) {
@@ -702,7 +706,7 @@ h6 {
   font-weight: 600;
   color: #4154f1;
   transition: 0.3;
-  background: #f6f9ff;
+  background: #6B728E;
   padding: 10px 15px;
   border-radius: 4px;
 }
@@ -710,16 +714,16 @@ h6 {
 .sidebar-nav .nav-link i {
   font-size: 16px;
   margin-right: 10px;
-  color: #4154f1;
+  color: #fff;
 }
 
 .sidebar-nav .nav-link.collapsed {
-  color: #012970;
-  background: #fff;
+  color: #fff;
+  background: #6B728E;
 }
 
 .sidebar-nav .nav-link.collapsed i {
-  color: #899bbd;
+  color: #fff;
 }
 
 .sidebar-nav .nav-link:hover {
@@ -751,7 +755,7 @@ h6 {
   align-items: center;
   font-size: 14px;
   font-weight: 600;
-  color: #012970;
+  color: #fff;
   transition: 0.3;
   padding: 10px 0 10px 40px;
   transition: 0.3s;
@@ -766,7 +770,7 @@ h6 {
 
 .sidebar-nav .nav-content a:hover,
 .sidebar-nav .nav-content a.active {
-  color: #4154f1;
+  color: #000000;
 }
 
 .sidebar-nav .nav-content a.active i {
