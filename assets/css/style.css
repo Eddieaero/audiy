@@ -376,12 +376,12 @@ h6 {
 
 @media (min-width: 1200px) {
   .logo {
-    width: 280px;
+    width: 100%;
   }
 }
 
 .logo img {
-  max-height: 26px;
+  max-height: 70px;
   margin-right: 6px;
 }
 
